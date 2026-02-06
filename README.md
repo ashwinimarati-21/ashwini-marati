@@ -5,9 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=700&lines=Turning+Data+into+Decisions;Building+Predictive+Models;SQL+%7C+Python+%7C+PowerBI;Analytics+%2B+AI+Hybrid" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+
 
 ---
 
